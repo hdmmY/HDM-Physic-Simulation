@@ -300,12 +300,12 @@ MonoBehaviour:
   m_segmentNum: 20
   m_ropeWidth: 0.3
   m_startPoint: {x: -6.8140345, y: 7.3223014, z: 0}
-  m_endPoint: {x: -1.3913345, y: 7.2799416, z: 0}
-  m_DragCoef: 0.05
-  m_WindForce: {x: 0, y: 0, z: 0}
+  m_endPoint: {x: -3.5554574, y: -2.3005943, z: 0}
+  m_DragCoef: 0.02
+  m_WindForce: {x: 0.5, y: 0, z: 0.5}
   m_particlePrefab: {fileID: 11400000, guid: 77f30c566c9af3241a6f22caad5be340, type: 2}
   m_springPrefab: {fileID: 11400000, guid: a82430e82bf6b2342a00ae1b0f97f5dc, type: 2}
-  m_times: 20
+  m_times: 30
 --- !u!4 &2127829723
 Transform:
   m_ObjectHideFlags: 0

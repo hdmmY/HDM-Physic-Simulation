@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_startParticle: {fileID: 0}
   m_endParticle: {fileID: 0}
-  m_kConstant: 1000
-  m_dampConstant: 500
+  m_kConstant: 2000
+  m_dampConstant: 700
   m_initLength: 0
   m_springDirection: {x: 0, y: 0, z: 0}
